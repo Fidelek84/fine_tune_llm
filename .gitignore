@@ -14,5 +14,8 @@ Thumbs.db
 __pycache__/
 *.pyc
 
-# Other files
-simple-image-captions/
+# Credential files
+.env
+*.env
+credentials.json
+secrets.json
